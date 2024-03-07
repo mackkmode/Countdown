@@ -1,0 +1,16 @@
+body {
+    background-color: #0d1117;
+    color: white;
+    font-size: 20vw;
+    text-align: center;
+    align-items: center;
+}
+
+.center-div {
+    margin: auto;
+    width: fit-content;
+    height: 100vh !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
